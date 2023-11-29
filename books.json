@@ -1,0 +1,21 @@
+{
+    "books":[
+        {
+            "Author":"HC verma",
+            "name":"applied physics",
+            "published on":"19.09.2020"
+            
+        },
+        { 
+            "Author":"hemant kumar",
+            "name":"fundamentals of C programming",
+            "published on":"19.09.2019"
+
+        },{
+            "Author":"Rahul Vant",
+            "name":"Data structures and algorithms",
+            "published on":"19.09.2022"
+        }
+
+    ]
+}
